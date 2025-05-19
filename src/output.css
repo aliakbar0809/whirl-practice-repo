@@ -614,6 +614,14 @@ video {
   margin-top: 40px;
 }
 
+.mt-\[100px\] {
+  margin-top: 100px;
+}
+
+.mt-0 {
+  margin-top: 0px;
+}
+
 .flex {
   display: flex;
 }
@@ -837,6 +845,10 @@ video {
   padding: 50px;
 }
 
+.p-\[\] {
+  padding: ;
+}
+
 .py-\[20px\] {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -855,6 +867,31 @@ video {
 .px-\[10px\] {
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.px-\[20px\] {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.py-\[50px\] {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.px-\[\] {
+  padding-left: ;
+  padding-right: ;
+}
+
+.px-\[50px\] {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .pt-\[50px\] {
@@ -1033,6 +1070,18 @@ video {
     width: 533px;
   }
 
+  .md\:w-\[\] {
+    width: ;
+  }
+
+  .md\:w-\[448px\] {
+    width: 448px;
+  }
+
+  .md\:w-\[503px\] {
+    width: 503px;
+  }
+
   .md\:grid-cols-\[\] {
     grid-template-columns: ;
   }
@@ -1099,6 +1148,10 @@ video {
 
   .md\:gap-\[50px\] {
     gap: 50px;
+  }
+
+  .md\:gap-\[40px\] {
+    gap: 40px;
   }
 
   .md\:p-\[50px\] {
